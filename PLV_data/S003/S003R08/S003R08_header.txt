@@ -1,0 +1,2 @@
+Version,Subject,Recording,Startdate,Startime,Bytes,Reserved,NumRec,Duration,NumSig
+0       ,X X X X                                                                         ,Startdate 12-AUG-2009 X X BCI2000                                               ,12.08.09,16.15.00,16896   ,EDF+C                                       ,125,1       ,64
